@@ -1,5 +1,5 @@
 // Paramètres
-// Bonne pratique : stocker les paramètres dans des variables initialisées en début de sketch
+// Bonne pratique : stocker les paramètres dans une variable initialisée en début de sketch
 const p = {
     agentSize: 10, // Taille de l'agent
     stepSize: 2 // Increment de position (vitesse de l'agent)
